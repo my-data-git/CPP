@@ -7,7 +7,8 @@ bool isLeapYear();*/
 #include<iostream>
 using namespace std;
 class Datee
-{
+{ 
+    private:
     int day,month,year;
 
     public :
